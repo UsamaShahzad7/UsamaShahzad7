@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Usama+Shahzad;and+I+am+a+Software+Developer)](https://git.io/typing-svg)
+
 <p align="centre">
   <h1>Languages Frameworks Tools</h1>
 </p>
@@ -10,5 +12,3 @@
   </a>
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaShahzad7&show_icons=true)
