@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**UsamaShahzad7/UsamaShahzad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="centre">
+  <h1>Languages Frameworks Tools</h1>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ruby,docker,rust,react,ts,js,vscode,tailwind,stackoverflow,sqlite,redis,rails,postgres,nodejs,netlify,mysql,mongodb,css,bootstrap" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaShahzad7&show_icons=true)
