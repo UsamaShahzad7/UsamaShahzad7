@@ -19,6 +19,6 @@
 <h3 align="left">Languages Framework and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ruby,docker,rust,react,ts,js,vscode,tailwind,stackoverflow,sqlite,redis,rails,postgres,nodejs,netlify,mysql,mongodb,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,ruby,docker,react,ts,js,vscode,tailwind,stackoverflow,sqlite,redis,rails,postgres,nodejs,netlify,mysql,mongodb,css,bootstrap" />
   </a>
 </p>
