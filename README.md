@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/usamashahzad247" target="blank"><img src="https://img.shields.io/twitter/follow/usamashahzad247?logo=twitter&style=for-the-badge" alt="usamashahzad247" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on **React, NEXT.js, Supabase, NEST.js**
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Ruby on Rails, NEXT.js, Databases**
 
 - 📫 How to reach me **mughalosama618@gmail.com**
 
